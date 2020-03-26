@@ -1,2 +1,2 @@
 # SignalApp
-This Application contains Traffic Light signal App
+This is a repo for Traffic Signal Application
